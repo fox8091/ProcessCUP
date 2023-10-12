@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
 
+__author__ = "fox8091"
+__version__ = "1.0.0"
+
 import os
 import sys
 import argparse

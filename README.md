@@ -12,5 +12,5 @@ ProcessCUP requires argparse and pyctr to function. Due to pyctr not being packa
 
 ## Credits
 
-[ihaveahax](https://github.com/ihaveamac) for ninfs
+[ihaveahax](https://github.com/ihaveamac) for pyctr
 [luigoalma](https://github.com/luigoalma) for testing and recommendations
