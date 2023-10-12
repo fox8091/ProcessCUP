@@ -8,7 +8,7 @@ ProcessCUP requires argparse and pyctr to function. Due to pyctr not being packa
 
 ## Usage
 
-`ProcessCUP.py` for details. Note that `path` can either a cartridge image, or a directory (which will be recursively searched) containing multiple cartridge images
+`ProcessCUP.py` for details. Note that `path` can either be a cartridge image, or a directory (which will be recursively searched) containing multiple cartridge images
 
 ## Credits
 
